@@ -35,5 +35,6 @@ pip install -r requirements.txt
 
 5. The results, including the sentence, sentiment label, and confidence score, will be displayed in a table.
 
+# Contact
 
-
+If you have any questions or feedback, feel free to contact me at ceo@adopleai.com.
